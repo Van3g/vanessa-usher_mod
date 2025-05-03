@@ -119,3 +119,5 @@ buildPipeline('tools/pipeline/ci.json')
 ## Лицензия
 
 Лицензию читать здесь [LICENSE.md](LICENSE.md)
+
+Учебный проект
