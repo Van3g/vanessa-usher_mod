@@ -120,4 +120,4 @@ buildPipeline('tools/pipeline/ci.json')
 
 Лицензию читать здесь [LICENSE.md](LICENSE.md)
 
-Учебный проект 1.0
+Учебный проект 1.0 Тест привязки комита
